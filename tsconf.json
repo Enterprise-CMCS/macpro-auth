@@ -1,6 +1,6 @@
 {
-    "include": ["src/**/*.tsx", "src/**/*.ts"],
-    "exclude": ["src/**/*.stories.tsx", "src/**/*.test.tsx"],
+    "include": [],
+    "exclude": [],
     "compilerOptions": {
       /* Visit https://aka.ms/tsconfig to read more about this file */
       /* Projects */
